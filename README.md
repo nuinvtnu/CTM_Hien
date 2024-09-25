@@ -10,11 +10,14 @@ Prediction: step-by-step as followings:
 
 ----
   Step 1: Data collection and pre-processing
+  
   Step 2: Extract fragments using window size of 31
+  
   Step 3: Removing redundant and homologous data using CD-HIT
+ 
   Step 4: Word separating using 1-gram
+  
   **Step 5: Traing the model on CSV files**
-
   ----
     Build teacher model:
     Train teacher model with teacher dataset and save this model: teacher_KD2.h5
