@@ -1,5 +1,5 @@
 Chương trình demo Đề tài Luận văn tốt nghiệp "**Mô hình phân tích dự đoán vị trí protein Arabidopsis Ubiquitination sử dụng phương pháp chắt lọc tri thức**"
-(Học viên: Cù Thị Mai Hiên; GVHD: TS. Nguyễn Văn Núi)
+-(Học viên: Cù Thị Mai Hiên; GVHD: TS. Nguyễn Văn Núi)
 ----
 **Cấu hình**
   Google Colab.
