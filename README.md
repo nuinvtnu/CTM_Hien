@@ -3,10 +3,10 @@ Chương trình demo Đề tài Luận văn tốt nghiệp "**Mô hình phân t�
 ----
 **Cấu hình**
 ----
-  Google Colab.
+Google Colab.
   Library: Keras, Tensorflow, Sklearn
   Input: format: .csv ; windowsize: 31
-**Prediction**: step-by-step as followings:
+Prediction: step-by-step as followings:
 ----
   Step 1: Data collection and pre-processing
   Step 2: Extract fragments using window size of 31
