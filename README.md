@@ -17,7 +17,7 @@ Prediction: step-by-step as followings:
  
   Step 4: Word separating using 1-gram
   
-  **Step 5: Traing the model on CSV files**
+ Step 5: Traing the model on CSV files
   ----
     Build teacher model:
     Train teacher model with teacher dataset and save this model: teacher_KD2.h5
